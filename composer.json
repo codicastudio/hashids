@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/hashids",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/hashids",
+    "name": "codica-studio/hashids",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/hashids",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "graham-campbell/manager": "^4.4",
         "hashids/hashids": "^4.0",
         "illuminate/contracts": "^8.0",
